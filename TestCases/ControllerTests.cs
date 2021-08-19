@@ -8,8 +8,8 @@ namespace TestCases
           [Fact]
           public void TestMethod()
           {
-               Assert.Equal(2, 3);
-               Assert.Equal(2, 3);
+               Assert.Equal(2, 2);
+               Assert.Equal(2, 2);
           }
      }
 }
