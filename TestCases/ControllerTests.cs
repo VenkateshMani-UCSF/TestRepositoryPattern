@@ -9,6 +9,7 @@ namespace TestCases
           public void TestMethod()
           {
                Assert.Equal(2, 2);
+               Assert.Equal(1, 2);
           }
      }
 }
